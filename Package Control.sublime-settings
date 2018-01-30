@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"Generic Config",
+		"Gist",
+		"HTML5",
+		"Http Requester",
+		"InsertDate",
+		"jQuery",
+		"jQuery Snippets pack",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"SummitLinter",
+		"Theme - Spacegray",
+		"Xdebug Client",
+		"XssEncode"
+	]
+}

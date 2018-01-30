@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+j"], "command": "join_lines" },
+	{ "keys": ["f3"], "command": "insert_date", "args": {"format": "iso"} },
+	{ "keys": ["ctrl+alt+shift+s"], "command": "save_all" },
+	
+	{ "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} }
+]
